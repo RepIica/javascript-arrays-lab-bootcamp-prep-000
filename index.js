@@ -13,6 +13,18 @@ function destructivelyRemoveFirstKitten(name) {
   kittens.shift(name)
 }
 
+function appendKitten(name) {
+  newArray = []
+  return newArray
+}
+function -@@@-Kitten(name) {
+  newArray = []
+  return newArray
+}
+function -@@@-Kitten(name) {
+  newArray = []
+  return newArray
+}
 function -@@@-Kitten(name) {
   newArray = []
   return newArray
