@@ -12,3 +12,7 @@ function destructivelyRemoveLastKitten(name) {
 function destructivelyRemoveFirstKitten(name) {
   kittens.shift(name)
 }
+
+function -@@@-Kitten(name) {
+  return
+}
