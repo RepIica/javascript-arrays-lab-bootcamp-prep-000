@@ -14,7 +14,7 @@ function destructivelyRemoveFirstKitten(name) {
 }
 
 function appendKitten(name) {
-  newArray = []
+  newArray = [kitten]
   return newArray
 }
 // function -@@@-Kitten(name) {
