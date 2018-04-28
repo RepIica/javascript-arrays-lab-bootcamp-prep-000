@@ -4,11 +4,11 @@ function destructivelyAppendKitten(name) {
   kittens.push(name)
 }
 function destructivelyPrependKitten(name) {
-  kittens.(name)
+  kittens.shift(name)
 }
 function destructivelyRemoveLastKitten(name) {
-  kittens.(name)
+  kittens.pop(name)
 }
-function destructively-@@@-Kitten(name) {
-  kittens.(name)
+function destructivelyRemoveFirstKitten(name) {
+  kittens.unshift(name)
 }
