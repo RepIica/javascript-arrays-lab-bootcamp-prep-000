@@ -17,15 +17,15 @@ function appendKitten(name) {
   var newArray = [...kittens, name]
   return newArray
 }
-// function -@@@-Kitten(name) {
-//   newArray = []
-//   return newArray
-// }
-// function -@@@-Kitten(name) {
-//   newArray = []
-//   return newArray
-// }
-// function -@@@-Kitten(name) {
-//   newArray = []
-//   return newArray
-// }
+function -@@@-Kitten(name) {
+  newArray = []
+  return newArray
+}
+function -@@@-Kitten(name) {
+  newArray = []
+  return newArray
+}
+function -@@@-Kitten(name) {
+  newArray = []
+  return newArray
+}
