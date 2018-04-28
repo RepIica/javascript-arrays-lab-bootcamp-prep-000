@@ -18,14 +18,14 @@ function appendKitten(name) {
   return newArray
 }
 function prependKitten(name) {
+  newArray = [name, ...kittens]
+  return newArray
+}
+function removeLastKitten(name) {
   newArray = []
   return newArray
 }
-function -@@@-Kitten(name) {
-  newArray = []
-  return newArray
-}
-function -@@@-Kitten(name) {
+function removeFirstKitten(name) {
   newArray = []
   return newArray
 }
