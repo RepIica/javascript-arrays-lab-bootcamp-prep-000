@@ -14,5 +14,6 @@ function destructivelyRemoveFirstKitten(name) {
 }
 
 function -@@@-Kitten(name) {
-  return
+  newArray = []
+  return newArray
 }
