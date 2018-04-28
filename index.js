@@ -6,3 +6,9 @@ function destructivelyAppendKitten(name) {
 function destructively-@@@-Kitten(name) {
   kittens.(name)
 }
+function destructively-@@@-Kitten(name) {
+  kittens.(name)
+}
+function destructively-@@@-Kitten(name) {
+  kittens.(name)
+}
